@@ -3,8 +3,8 @@
 A full-stack web application that helps users discover movies based on their favorite categories.  
 Users can register, select preferred genres, and receive **personalized recommendations** along with **email notifications** when new movies are added.
 
+# Client and Server Diagram
 ---
-#Client and Server Diagram
 <img width="1720" height="604" alt="Blank diagram" src="https://github.com/user-attachments/assets/db4ca27c-fc26-45e4-8887-b18b5b25c0a5" />
 
 ## 🚀 Features
